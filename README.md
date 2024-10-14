@@ -2,7 +2,7 @@
 # <h2 align="center"> 💫  Phoenix  💫 </h3>
 
 <h3>
-  Knowledgeable, self-driven, and adaptive <b style="font-weight:700;">Full Stack developer</b> with 4
+  Knowledgeable, self-driven, and adaptive <b style="font-weight:700;">Full Stack developer</b> with 6
   years’ coding experience.<br />Efficient and knowledgeable coder with skills
   in HTML, CSS, PHP, and JavaScript programming languages. <br />Collaborative
   and detail-oriented team player with excellent communication skills and
